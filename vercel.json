@@ -2,6 +2,9 @@
   "cleanUrls": true,
   "trailingSlash": false,
   "rewrites": [
+    { "source": "/tiktokGwQAtP1GzteYAFyJLMCeoEj6Jd0UlIDH.txt", "destination": "http://54.221.250.47:8080/tiktokGwQAtP1GzteYAFyJLMCeoEj6Jd0UlIDH.txt" },
+    { "source": "/tiktoktRqBcGf36l7lCC16aBdnIs7YiPu130V0.txt", "destination": "http://54.221.250.47:8080/tiktoktRqBcGf36l7lCC16aBdnIs7YiPu130V0.txt" },
+    { "source": "/tiktok0iKEjxnza0zY0NUCYS8kyAZmJYTf8l1e.txt", "destination": "http://54.221.250.47:8080/tiktok0iKEjxnza0zY0NUCYS8kyAZmJYTf8l1e.txt" },
     { "source": "/oauth/callback", "destination": "http://54.221.250.47:8080/oauth/callback" },
     { "source": "/stripe-webhook", "destination": "http://54.221.250.47:8080/stripe-webhook" },
     { "source": "/payment/:path*", "destination": "http://54.221.250.47:8080/payment/:path*" }
